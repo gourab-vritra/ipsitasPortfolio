@@ -50,7 +50,7 @@ body {
 }
 
 body {
-    background: url(https://ltcmedia.com/wp-content/uploads/2017/05/steps.jpg) no-repeat center center;
+    background: url(/content/img/ipsita-background.jpg) no-repeat center center;
     background-size: cover;
     color: #fff;
     text-align: center;
@@ -154,11 +154,11 @@ body {
 .sub-header {
     font-size: 23px;
     letter-spacing: 6px;
-    color: #fff !important;
+    color: navy !important;
 }
 
 .cover-heading {
-    color: #fff !important;
+    color: seagreen !important;
 }
 
 @media (min-width: 768px) {
@@ -171,6 +171,10 @@ body {
 .cover-copy {
     max-width: 500px;
     margin: 0 auto 3rem;
+}
+
+.authorname {
+    color: yellowgreen;
 }
 
 
