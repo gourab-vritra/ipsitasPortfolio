@@ -262,6 +262,14 @@ body {
     font-size: 40px;
 }
 
+.defautTextPosition {
+    text-align: center;
+}
+
+#underLinedHeader {
+    border-bottom: 5px solid orange;
+}
+
 
 /* Cleanup styles*/
 
@@ -273,7 +281,7 @@ body {
     float: left;
     width: 100%;
     margin-bottom: 70px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .service-sec h2 {
@@ -282,7 +290,7 @@ body {
     font-weight: 700;
     color: yellow;
     font-size: 36px;
-    text-align: right;
+    /* text-align: right; */
 }
 
 .service-sec h3 {
@@ -290,7 +298,7 @@ body {
     display: block;
     font-size: 20px;
     margin-bottom: 18px;
-    text-align: right;
+    /* text-align: right; */
 }
 
 .service-sec i {
@@ -312,7 +320,7 @@ body {
     line-height: 22px;
     margin-top: 13px;
     padding: 0 0px;
-    text-align: left;
+    /* text-align: left; */
     color: grey;
 }
 
